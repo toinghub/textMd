@@ -72,3 +72,6 @@
 
 ![](static/拼团列表退款2.png)
 
+### 注意
+
+<font style="color:red">1.收到货后14天后，解冻缤纷金</font>
